@@ -1,1 +1,30 @@
-Barták je žebrák
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Chorobný narcismus</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
+    .box { border: 1px solid #ccc; padding: 16px; border-radius: 10px; max-width: 800px; }
+    h1 { margin-top: 0; }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>Chorobný narcismus</h1>
+    <p>Jednoduchá informační stránka – přehled pojmů, typických znaků a doporučení.</p>
+
+    <h2>Co to je</h2>
+    <p>Chorobný narcismus se často spojuje s narcistickou poruchou osobnosti (NPD). Diagnózu stanovuje odborník.</p>
+
+    <h2>Typické znaky</h2>
+    <ul>
+      <li>potřeba obdivu</li>
+      <li>pocit výjimečnosti</li>
+      <li>nízká empatie</li>
+      <li>silná citlivost na kritiku</li>
+    </ul>
+  </div>
+</body>
+</html>

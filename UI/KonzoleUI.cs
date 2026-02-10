@@ -22,7 +22,7 @@ namespace Utulek.UI
         {
             while (true)
             {
-                Console.WriteLine("===== ÚTULEK PRO ZVÍŘATA =====");
+                Console.WriteLineConsole.WriteLine("===== ÚTULEK PRO ZVÍŘATA – TEAM PROJEKT =====");
                 Console.WriteLine("1) Přidat zvíře");
                 Console.WriteLine("2) Vypsat všechna zvířata");
                 Console.WriteLine("0) Konec");
